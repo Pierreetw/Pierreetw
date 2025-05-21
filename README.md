@@ -1,4 +1,4 @@
-### 👻 Hii, I'm Pierre
+## 👻 Hii, I'm Pierre
 
 <p >
   🧑‍💻 <strong>Full-Stack Developer</strong> | Passionate about Web & Innovation <br>
